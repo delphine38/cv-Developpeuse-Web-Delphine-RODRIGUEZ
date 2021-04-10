@@ -9,8 +9,7 @@ body {
   background-color: aqua;
 }
 
-.photo img {
-  border: 1px solid black;
+.couleurphoto img {
   border-radius: 100%;
 }
 .developpeuse {
